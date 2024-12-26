@@ -2,7 +2,10 @@
 - Space Shooter Clone
 
 ## Group Members
-- Luqman Shahzad
+- Luqman Shahzad (507599).
+
+## Credits
+ Hamza Yaqoob (BE-EE) for struct of bullets and enemies.
 
 ## Project Description
 "Space Shooter Clone" is a 2D space shooting game where the player controls a spaceship to defeat enemy ships while avoiding collisions. The game is designed with progressive difficulty, including increasing enemy strength, and a scoring system to track player performance. The game ends when the player collides with an enemy or completes the final level (Level 10). The project is implemented using the SFML (Simple and Fast Multimedia Library) framework.
@@ -99,3 +102,4 @@ Space-Shooter-Clone/
 ├── Assets/             # Contains textures, sounds, and fonts
 ├── Main                # Source code file
 ├── README.txt          # Detailed project documentation
+'''
